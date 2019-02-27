@@ -6,7 +6,7 @@
 ## install
 
 ```
-npm install is-webview --save
+npm install js-is-webview --save
 ```
 
 ## usage in node
