@@ -1,0 +1,38 @@
+{
+  "name": "js-is-webview",
+  "version": "1.0.1",
+  "description": "JavaScript WebView detection for Node and the browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/wuliqiangqiang/is-webview.git"
+  },
+  "keywords": [
+    "webview",
+    "is-webview",
+    "sniffing",
+    "detection"
+  ],
+  "author": "qiangqiang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wuliqiangqiang/is-webview/issues"
+  },
+  "homepage": "https://github.com/wuliqiangqiang/is-webview#readme",
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/preset-env": "^7.1.6",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "buble-tape-runner": "^1.0.4",
+    "global": "^4.3.2",
+    "gulp": "^4.0.0",
+    "gulp-babel": "^8.0.0",
+    "gulp-cli": "^2.0.1",
+    "gulp-uglify": "^3.0.1",
+    "tape": "^4.10.1"
+  }
+}
